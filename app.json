@@ -27,7 +27,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.reactnative.weather"
+      "package": "com.reactnative.instagram"
     }
   }
 }
